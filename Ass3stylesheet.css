@@ -1,0 +1,50 @@
+*This is my style sheet*/
+/*
+p {
+ color: #ff0000;
+ background-color: #0000FF;
+}
+*/
+
+
+h1 {
+  color: #ff0000;
+  background-color: #80CBB3;
+}
+
+  #divexample {
+    color: #0000FF;
+    background-color: #FFFFFF;
+}
+
+    a:link {
+     color: #FF0000;
+    }
+
+    a:visited {
+     color: #008000;
+    }
+
+
+
+    a:hover {
+     color: #ffff00;
+    }
+
+    a {
+     color: #ffff00;
+     text-decoration: #00ff00;
+    }
+
+    h3 {
+      color: #7FFFD4;
+      background-color: #80CBB3;
+    }
+
+p {
+  color: #FFA07A
+}
+
+.spanstyle{
+  color: #00FF00;
+}
