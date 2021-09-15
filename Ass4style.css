@@ -1,0 +1,49 @@
+.customtext {
+font-family: sans-serif;
+font-style: italic;
+font-weight: normal;
+}
+
+.textcenter {
+text-align: center;
+}
+
+
+.textjustify {
+text-align: justify;
+}
+
+h1 {
+  color: #FB840D;
+}
+
+h1 {
+  font-family: sans-serif;
+  font-style: italic;
+  font-weight: normal;
+}
+
+p {
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+h2 {
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+
+h3 {
+  font-family: sans-serif;
+  font-weight: normal;
+}
+
+body {
+  background-image: url(Image1.jpeg);
+}
+
+.imgbox {
+border: 2px solid #000000;
+padding: 10px 10px 10px 10px;
+}
