@@ -1,3 +1,69 @@
 .blockimg {
   display: block;
 }
+
+body {
+  background-image: url(Soul.png);
+  background-repeat: no-repeat;
+  background-position: top left;
+  border: 1px solid #000000;
+  width: 630px;
+  padding-bottom: 560px
+}
+
+.borderbottom {
+  margin-bottom: 400px;
+}
+
+
+.textright {
+text-align: right;
+}
+
+.pixelwidth {
+  border: 100px solid #ff0000;
+  width: 60px;
+}
+
+
+.percentwidth {
+  border: 10px solid #ff0000;
+  width: 100%;
+}
+
+p {
+  color: #FFFFFF
+}
+
+h1 {
+text-align: center;
+margin-top: 125px;
+font-size: 125px;
+color: #4874FF;
+
+}
+.specialp {
+ margin-top:520px;
+ color: #1169ed;
+ text-align: center;
+ font
+}
+
+ specialid {
+ color: #1169ed;
+ }
+
+a{
+  color: #1169ed;
+  margin-left: 225px
+}
+
+
+
+.spanstyle {
+  color: #f3a524;
+}
+
+.blockimg{
+  margin-left: 225px
+}
