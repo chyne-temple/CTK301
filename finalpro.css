@@ -4,7 +4,7 @@ header {
 
 nav {
   grid-column: span 12;
-  border-top: 4px solid #000000;
+  border-top: 4px solid #ffffff;
 }
 
 main {
@@ -14,12 +14,13 @@ main {
 
 footer {
   grid-column: span 6;
-  border-top: 4px solid #000000;
   padding-bottom: 50px;
   padding-left: 70px;
   padding-top: 20px;
-  border-right: 4px solid #000000;
   padding-right: 0px;
+  border: 3px solid #ffffff;
+  box-shadow: 5px 5px 5px grey;
+  margin: 30px;
 }
 
 
@@ -27,7 +28,7 @@ footer {
   margin: 1em auto;
   padding: 0;
   width: 960px;
-  border: 2px solid #000000;
+  border: 2px solid #ffffff;
   background-color: #b6e8a9;
   display: grid;
 }
@@ -74,6 +75,7 @@ nav a{
   background-color: #003300;
   width: 130px;
   color: white;
+text-decoration: none;
   transition: background-color 1.0s, width 2.0s, color 3.0s;
   padding-left: 30px;
 
@@ -108,10 +110,18 @@ h2{
 
 #contact{
   grid-column: span 6;
-  border-top: 3px solid #000000
-
-
+  border: 3px solid #ffffff;
+  box-shadow: 5px 5px 5px grey;
+  margin: 30px;
 }
+
+body {
+  background-image: url(leafs.jpg);
+  background-repeat:repeat;
+  background-position: top left;
+}
+
+
 
  .contact{
    padding-left: 225px;

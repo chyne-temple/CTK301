@@ -2,7 +2,7 @@ h1{
   font-size: 30px;
   font-family:;
   font-weight: bold;
-  border-bottom: 5px solid #000000;
+  border-bottom: 5px solid #ffffff;
   background-color: #b6e8a9;
   color: #000000;
   width: 850px;
@@ -27,7 +27,7 @@ h2 {
 
 
 body {
-  background-image: url(a62.png);
+  background-image: url(leafs.jpg);
   background-repeat:repeat;
   background-position: top left;
 }
@@ -35,7 +35,7 @@ body {
 #wrapper {
   margin: 1em auto;
   width: 900px;
-  border: 5px solid #000000;
+  border: 5px solid #ffffff;
   background-color: #b6e8a9;
   display: grid;
 }
@@ -154,7 +154,7 @@ width: 225px;
 }
 
 .imgcap {
-
+text-decoration-color: #000000;
   width:550px;
 }
 
