@@ -8,6 +8,8 @@ h1{
   width: 850px;
   margin: 5px;
   margin-bottom: 1px;
+  font-family: 'Playfair Display', serif;
+  color: #0d470a;
 
 }
 
@@ -19,6 +21,8 @@ h2 {
   margin-top: 1px;
   margin-bottom: 10px;
   padding-bottom: 25px;
+  font-family: 'Playfair Display', serif;
+  color: #0d470a;
 }
 
 
@@ -44,6 +48,8 @@ p{
   font-size: 15px;
   font-family: Georgia;
   margin: 20px;
+  font-family: 'Playfair Display', serif;
+  color: #0d470a;
 }
 
 nav ul {
@@ -68,6 +74,7 @@ nav li {
   margin: 30px;
   width: 150px;
   border-top: 300px;
+  border-color: #ffffff;
   text-decoration:none;
 }
 
@@ -80,6 +87,7 @@ nav a{
   color: white;
   transition: background-color 1.0s, width 2.0s, color 3.0s;
   padding-left: 15px;
+  text-decoration: none;
 }
 
 nav a:hover {
@@ -139,6 +147,7 @@ main {
 
 footer {
   grid-column: span 12;
+text-align: center;
 
 }
 

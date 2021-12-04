@@ -2,12 +2,14 @@ h1{
   font-size: 30px;
   font-family:;
   font-weight: bold;
-  border-bottom: 5px solid #000000;
+  border-bottom: 5px solid #ffffff;
   background-color: #b6e8a9;
   color: #000000;
   width: 850px;
   margin: 5px;
   margin-bottom: 1px;
+  font-family: 'Playfair Display', serif;
+  color: #0d470a;
 
 }
 
@@ -19,15 +21,19 @@ h2 {
   margin-top: 1px;
   margin-bottom: 10px;
   padding-bottom: 25px;
+  font-family: 'Playfair Display', serif;
+  color: #478f40;
 }
 
 
 
-
+#contact{
+  color: #478f40;
+}
 
 
 body {
-  background-image: url(a62.png);
+  background-image: url(leafs.jpg);
   background-repeat:repeat;
   background-position: top left;
 }
@@ -35,7 +41,7 @@ body {
 #wrapper {
   margin: 1em auto;
   width: 900px;
-  border: 5px solid #000000;
+  border: 5px solid #ffffff;
   background-color: #b6e8a9;
   display: grid;
 }
@@ -44,11 +50,14 @@ p{
   font-size: 15px;
   font-family: Georgia;
   margin: 20px;
+  font-family: 'Playfair Display', serif;
+  color: #0d470a;
 }
 
 nav ul {
   list-style-type: none;
   padding-left: 10px;
+
 
 }
 
@@ -67,7 +76,7 @@ nav li {
   border: 1px solid #000000;
   margin: 30px;
   width: 150px;
-  
+border-color: #ffffff;
   text-decoration:none;
 }
 
@@ -80,6 +89,7 @@ nav a{
   color: white;
   transition: background-color 1.0s, width 2.0s, color 3.0s;
   padding-left: 15px;
+  text-decoration: none;
 }
 
 nav a:hover {

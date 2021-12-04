@@ -5,7 +5,9 @@ header {
 nav {
   grid-column: span 12;
   border-top: 4px solid #ffffff;
+  padding-bottom: 25px;
 }
+
 
 main {
   grid-column: span 12;
@@ -16,13 +18,21 @@ footer {
   grid-column: span 6;
   padding-bottom: 50px;
   padding-left: 70px;
-  padding-top: 20px;
-  padding-right: 0px;
+  padding-top: 15px;
+  padding-right:70px;
   border: 3px solid #ffffff;
   box-shadow: 5px 5px 5px grey;
   margin: 30px;
+  list-style-type: none;
+  text-align: center;
+  text-decoration: none;
+  font-family: 'Playfair Display', serif;
+  color: #0d470a;
 }
 
+#list{
+  color: #0d470a;
+}
 
 #wrapper {
   margin: 1em auto;
@@ -43,6 +53,7 @@ footer {
   --carousel-button-svg-width: 20px;
   --carousel-button-svg-height: 20px;
   --carousel-button-svg-stroke-width: 2.5;
+
 }
 
 .carousel__slide {
@@ -66,6 +77,7 @@ nav ul {
   margin: 0;
   padding: 0;
   list-style: none;
+  text-align: center;
 }
 
 nav a{
@@ -78,6 +90,7 @@ nav a{
 text-decoration: none;
   transition: background-color 1.0s, width 2.0s, color 3.0s;
   padding-left: 30px;
+
 
 }
 
@@ -98,21 +111,33 @@ border: 2px solid #5f7f57;
 margin: 0px;
 width: 190px;
 background-color: #5f7f57;
+border-color: #ffffff:
+
 }
 
 h1{
   padding-left: 30px;
+font-family: 'Playfair Display', serif;
+font-weight: bold:normal;
+color: #0d470a;
 }
 
 h2{
   padding-left: 40px;
-}
+  font-family: 'Playfair Display', serif;
+  color: #0d470a;
+  }
+
 
 #contact{
   grid-column: span 6;
   border: 3px solid #ffffff;
   box-shadow: 5px 5px 5px grey;
   margin: 30px;
+  padding-right: 175px;
+  font-family: 'Playfair Display', serif;
+  padding-top: 10px;
+  color: #0d470a;
 }
 
 body {
@@ -126,3 +151,16 @@ body {
  .contact{
    padding-left: 225px;
  }
+
+.list{
+  color: #0d470a;
+}
+
+#text{
+  font-family: 'Playfair Display', serif;
+  color: #0d470a;
+  text-align: center;
+}
+
+footer a{
+  color: #24962c;
